@@ -3,16 +3,17 @@ This repository contains a real-time digit recognition application using Pygame 
 
 
 # Procedure
-Ensure you have the pre-trained model (digit_classifier.h5) in the project directory.
-In 'process_image.py', edit the model's path accordingly.
+-Ensure you have the pre-trained model (digit_classifier.h5) in the project directory.
+-In 'process_image.py', edit the model's path accordingly.
 
 Run the application using:
 python app.py
 
 Draw digits:
-Use the left mouse button to draw digits on the left side of the screen.
-The recognized digit will be displayed on the right side of the screen.
-Use the right mouse button to clear the screen.
+- Use the left mouse button to draw digits on the left side of the screen.
+- The recognized digit will be displayed on the right side of the screen.
+- Use the right mouse button to clear the screen.
+
 
 Clone the repository and install the necessary dependencies:
 ```bash
