@@ -7,7 +7,7 @@ This repository contains a real-time digit recognition application using Pygame 
 -In 'process_image.py', edit the model's path accordingly.
 
 Run the application using:
-python app.py
+'python app.py'
 
 Draw digits:
 - Use the left mouse button to draw digits on the left side of the screen.
